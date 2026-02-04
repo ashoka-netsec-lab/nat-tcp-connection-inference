@@ -1,4 +1,4 @@
-# Private IP Address Inferece Behind NAT 
+# Private IP Address Infernece Behind NAT 
 
 
 ### Citation
